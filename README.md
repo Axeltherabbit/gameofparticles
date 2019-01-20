@@ -1,5 +1,5 @@
 # Game of particles
-
+You'll need python3.7 and py game
 # some screenshots
 
 # ![Alt text](https://github.com/Axeltherabbit/gameofparticles/blob/master/img/1.png?raw=true)
